@@ -1,10 +1,10 @@
 # Olá, eu sou Flávio 👋
 
-Sou estudante de Desenvolvimento de Sistemas e estou iniciando minha jornada na área de tecnologia.
+Sou estudante de Desenvolvimento de Sistemas e estou iniciando minha formação na área de tecnologia.
 
-Atualmente estou aprendendo programação com foco em Python.
+Atualmente estou aprendendo fundamentos de programação, inteligência artificial e tecnologias como Python, HTML e CSS.
 
-## Tecnologias em aprendizado
+## Tecnologias e conceitos em aprendizado
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -14,10 +14,10 @@ Atualmente estou aprendendo programação com foco em Python.
 
 ## Formação
 
-Técnico em Desenvolvimento de Sistemas (EaD)  
+Técnico em Desenvolvimento de Sistemas
 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flaviohsgonzaga)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:fhgonzaga@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:flavio.silva.gonzaga@gmail.com)
