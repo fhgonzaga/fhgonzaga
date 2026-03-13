@@ -18,6 +18,6 @@ Técnico em Desenvolvimento de Sistemas (EaD)
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](COLOQUE_AQUI_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flaviohsgonzaga)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:SEUEMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:fhgonzaga@gmail.com)
